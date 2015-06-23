@@ -1,6 +1,6 @@
 # SBP
 Statistical Binary Pattern
-This code is developped by Thanh Phuong NGUYEN, U2IS, ENSTA Paristech for the paper "Statistical Binary Patterns" submited to Neurocomputing. It need MathWorks (verfied with MathWorks R2011) environment to excecute.
+This code is developped by Thanh Phuong NGUYEN, U2IS, ENSTA Paristech for the paper "Statistical Binary Patterns" submited to Neurocomputing. It needs MathWorks (verfied with MathWorks R2011) environment to excecute.
 In order to run the main program (SBP_Outex_HighOrder, SBP_KTH2_HigherOrder_Multiscale), the public texture dataset (Outex, and KTH-TIPS 2b) must be downloaded to corresponding folders: Datasets/Outex/Outex_TC_00010/, Datasets/Outex/Outex_TC_00012and Datasets/KTH-TIPS2-all
 
 
